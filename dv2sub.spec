@@ -1,6 +1,6 @@
 Name:		dv2sub
 Version:	0.3
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Extracts info or subtitles from DV stream
 License:	GPLv2+
 Group:		Video
