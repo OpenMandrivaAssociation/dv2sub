@@ -64,3 +64,15 @@ rm -rf %{buildroot}
 %defattr(-,root,root,-)
 %doc examples
 %{_datadir}/kino/scripts/exports/*.sh
+
+
+%changelog
+* Sun Dec 05 2010 Oden Eriksson <oeriksson@mandriva.com> 0.3-2mdv2011.0
++ Revision: 610290
+- rebuild
+
+* Sun Feb 07 2010 Jérôme Brenier <incubusss@mandriva.org> 0.3-1mdv2010.1
++ Revision: 501672
+- import dv2sub
+
+
