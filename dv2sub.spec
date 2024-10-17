@@ -2,7 +2,7 @@ Name:          dv2sub
 Version:       0.3
 Release:       1
 Summary:       DV subtitle extractor
-URL:           http://%{name}.sourceforge.net
+URL:           https://%{name}.sourceforge.net
 License:       GPLv2
 Group:         Video
 Source0:       http://prdownloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
