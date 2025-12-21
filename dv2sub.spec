@@ -6,6 +6,11 @@ URL:           https://%{name}.sourceforge.net
 License:       GPLv2
 Group:         Video
 Source0:       http://prdownloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: pkgconfig
 BuildRequires: libdv-devel
 
